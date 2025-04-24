@@ -8,9 +8,9 @@
 
 
 <!-- - ✍ You can find my resume here [Resume] -->
-- 📫 Reach out to me: <b>saksalstha@gmail.com</b>
 
-<br>
+
+
 <hr>
 
 <!--
@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 ### 🧰 Frameworks
 <p>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
-<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-E60000?logo=scikitlearn&logoColor=white">
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-E60000?style=for-the-badge&logo=scikitlearn&logoColor=white">
 
 </p>
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <img alt="Terminal" src="https://img.shields.io/badge/GNOME%20Terminal-%23F37626.svg?logo=GNOME%Terminal&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-383838?logo=Linux&logoColor=white">
-<img alt="PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+<img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black">
 </p>
 
 ### PowerBI Background (Data Analysis)
@@ -73,14 +73,10 @@ Here are some ideas to get you started:
 <img alt="ETL" src="https://img.shields.io/badge/ETL-4CAF50?logo=apachespark&logoColor=white">
 <img alt="Data Visualization" src="https://img.shields.io/badge/Data%20Visualization-F57C00?logo=tableau&logoColor=white">
 </p>
+<br>
 
+📫 Reach out to me: <b>saksalstha@gmail.com</b>
 
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white">
-<img alt="Neural Network" src="https://img.shields.io/badge/Neural%20Network-FFD700?logo=apacheairflow&logoColor=black">
-
-
-<img alt="DAX" src="https://img.shields.io/badge/DAX-4472C4?logo=powerbi&logoColor=white">
-<img alt="M Language" src="https://img.shields.io/badge/M%20Language-742774?logo=powerbi&logoColor=white">
 
 
 
