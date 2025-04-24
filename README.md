@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="Angular" src="https://img.shields.io/badge/:badgeContent?logo=angular&logoColor=red&label=Angular&labelColor=White">
+
