@@ -2,13 +2,13 @@
 <br>
 
 🎓 I hold a Bachelor's degree in Computer Science and Information Technology. <br>
-💻 My skill set spans across web development, software development, SQL databases, machine learning & AI, and data analysis.
+💻 My skill set spans across <b>Web Development, Software Development, SQL Database, Machine Learning & AI, and Data Analysis.</b>
 
 <br>
 
 
 <!-- - ✍ You can find my resume here [Resume] -->
-- 📫 Reach out to me: saksalstha@gmail.com
+- 📫 Reach out to me: <b>saksalstha@gmail.com</b>
 
 <br>
 <hr>
