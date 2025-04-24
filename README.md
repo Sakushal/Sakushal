@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 ### 🤖 AI/ML Skills
 <p>
 <img alt="Neural Network" src="https://img.shields.io/badge/Neural%20Network-FFD700?logo=apacheairflow&logoColor=black">
-</p>p
+<img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-FF1493?logo=tensorflow&logoColor=white">
+<img alt="Data Preprocessing" src="https://img.shields.io/badge/Data%20Preprocessing-2E7D32?logo=databricks&logoColor=white">
+</p>
 
 
 ### 🧰 Frameworks
@@ -63,6 +65,13 @@ Here are some ideas to get you started:
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-383838?logo=Linux&logoColor=white">
 <img alt="PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+</p>
+
+### PowerBI Background (Data Analysis)
+<p>
+<img alt="Data Modeling" src="https://img.shields.io/badge/Data%20Modeling-008080?logo=powerbi&logoColor=white">
+<img alt="ETL" src="https://img.shields.io/badge/ETL-4CAF50?logo=apachespark&logoColor=white">
+<img alt="Data Visualization" src="https://img.shields.io/badge/Data%20Visualization-F57C00?logo=tableau&logoColor=white">
 </p>
 
 
