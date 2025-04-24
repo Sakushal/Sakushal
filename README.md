@@ -75,6 +75,31 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+## 📊 My Github Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sakushal&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+
+[![Sakushal Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakushal&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Sakushal Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Sakushal&show_icons=true&locale=en&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br/>
+
+### 🏆 Git Profile Trophies:
+<p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=Sakushal&theme=juicyfresh&no-bg=true"/></p>
+<br>
+
+<hr>
+
+## Social Media:
+<a href="https://www.facebook.com/sakushal56/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://x.com/sakushal_sth"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/sakushal-shrestha-18706b218/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
 📫 Reach out to me: <b>saksalstha@gmail.com</b>
 
 
