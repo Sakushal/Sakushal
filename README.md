@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 
 ## Social Media:
 <a href="https://www.facebook.com/sakushal56/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://www.instagram.com/sakushal56/"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
 <a href="https://x.com/sakushal_sth"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/sakushal-shrestha-18706b218/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
