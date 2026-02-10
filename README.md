@@ -80,17 +80,17 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Sakushal Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakushal&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Sakushal Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakushal&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br>
 
-[![Sakushal Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Sakushal&show_icons=true&locale=en&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Sakushal Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Sakushal&show_icons=true&locale=en&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <br/>
 
-### 🏆 Git Profile Trophies:
-<p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=Sakushal&theme=juicyfresh&no-bg=true"/></p>
+<!-- ### 🏆 Git Profile Trophies:
+<p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=Sakushal&theme=juicyfresh&no-bg=true"/></p> -->
 <br>
 
 <hr>
