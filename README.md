@@ -64,10 +64,12 @@ Here are some ideas to get you started:
 <img alt="Terminal" src="https://img.shields.io/badge/GNOME%20Terminal-%23F37626.svg?logo=GNOME%Terminal&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-383838?logo=Linux&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black">
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
 </p>
 
-### PowerBI Background (Data Analysis)
+### PowerBI Background | Grafana (Data Analysis)
 <p>
 <img alt="Data Modeling" src="https://img.shields.io/badge/Data%20Modeling-008080?logo=powerbi&logoColor=white">
 <img alt="ETL" src="https://img.shields.io/badge/ETL-4CAF50?logo=apachespark&logoColor=white">
