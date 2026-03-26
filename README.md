@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
 </p>
 
-### PowerBI Background | Grafana (Data Analysis)
+### PowerBI | Grafana  Background (Data Analysis)
 <p>
 <img alt="Data Modeling" src="https://img.shields.io/badge/Data%20Modeling-008080?logo=powerbi&logoColor=white">
 <img alt="ETL" src="https://img.shields.io/badge/ETL-4CAF50?logo=apachespark&logoColor=white">
