@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Sakushal Shrestha!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <br>
 
-🎓 I hold a Bachelor's degree in Computer Science and Information Technology. <br>
+🎓 I am pursuing a Master’s degree in Information Technology and hold a Bachelor’s degree in Computer Science and Information Technology. <br>
 💻 My skill set spans across <b>Web Development, Software Development, SQL Database, Machine Learning & AI, and Data Analysis.</b>
 
 <br>
