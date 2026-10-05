@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 <!-- ### 🏆 Git Profile Trophies:
 <p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=Sakushal&theme=juicyfresh&no-bg=true"/></p> -->
-<br>
+
 
 <hr>
 
